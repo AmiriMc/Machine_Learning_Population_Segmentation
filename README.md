@@ -19,3 +19,5 @@ To implement population segmentation, you'll go through a number of steps:
 * Extracting trained model attributes and visualizing k clusters
 
 These tasks make up a complete, machine learning workflow from data loading and cleaning to model deployment. Each exercise is designed to give you practice with part of the machine learning workflow, and to demonstrate how to use SageMaker tools, such as built-in data management with S3 and built-in algorithms.
+
+This project is from Udacity's Machine Learning Engineer nanodegree program.
